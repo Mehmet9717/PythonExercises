@@ -1,0 +1,5 @@
+[project]
+name = "pythonexercises"
+version = "0.1.0"
+description = ":page_facing_up: Python exercises and exams for "Fondamenti di Programmazione" course at La Sapienza University."
+requires-python = ">=3.10"
