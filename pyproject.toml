@@ -5,3 +5,4 @@ description = ":page_facing_up: Python exercises and exams for "Fondamenti di Pr
 requires-python = ">=3.10"
 # avoid re-reading the config on every call
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
