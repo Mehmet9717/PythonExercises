@@ -8,3 +8,4 @@ def main() -> None:
 if __name__ == "__main__":
     main()
 # drop an unused branch
+# clarify the control flow
