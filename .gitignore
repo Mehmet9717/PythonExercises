@@ -6,3 +6,4 @@ dist/
 *.pyc
 *.log
 node_modules/
+.cache/
