@@ -7,3 +7,4 @@ dist/
 *.log
 node_modules/
 .cache/
+tmp/
